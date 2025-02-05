@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function LeaderDescription() {
   const leaders = [
-    { profession: 'The Chancellor', name: 'Professor Nazmul Hasan, PhD', image: 'https://randomuser.me/api/portraits/men/1.jpg' },
+    { profession: 'The Chancellor', name: 'Professor Foysal Ahammed, PhD', image: 'https://randomuser.me/api/portraits/men/1.jpg' },
     { profession: 'Vice-Chancellor', name: 'Dr. Ayesha Karim', image: 'https://randomuser.me/api/portraits/women/2.jpg' },
     { profession: 'Pro Vice-Chancellor', name: 'Dr. Imran Hossain', image: 'https://randomuser.me/api/portraits/men/3.jpg' },
     { profession: 'Dean of Science', name: 'Dr. Mahmood Al Hasan', image: 'https://randomuser.me/api/portraits/men/4.jpg' },

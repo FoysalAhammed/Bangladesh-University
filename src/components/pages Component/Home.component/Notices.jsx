@@ -49,9 +49,9 @@ export function Notices() {
   ]
 
   const Blog = [
-    {imgSrc: blogImage1 , name: "Nazmul hasan" , Dept: "CSE", Title: "The Future of Web Development"},
-    {imgSrc: blogImage2 , name: "Nazmul hasan" , Dept: "BBA", Title: "Mastering Full-Stack JavaScript"},
-    {imgSrc: blogImage3 , name: "Nazmul hasan" , Dept: "Law", Title: "10 Tips for Clean Code"},
+    {imgSrc: blogImage1 , name: "Foysal Ahammed" , Dept: "CSE", Title: "The Future of Web Development"},
+    {imgSrc: blogImage2 , name: "Foysal Ahammed" , Dept: "BBA", Title: "Mastering Full-Stack JavaScript"},
+    {imgSrc: blogImage3 , name: "Foysal Ahammed" , Dept: "Law", Title: "10 Tips for Clean Code"},
   ]
 
 

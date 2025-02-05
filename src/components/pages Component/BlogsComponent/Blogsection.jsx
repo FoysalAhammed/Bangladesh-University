@@ -10,7 +10,7 @@ const blogData = [
     title: 'Blog Title 1',
     description: 'Lorem ipsum dolor sit amet consectetur, adipisicing elit.',
     date: 'Jan 2025',
-    author: 'Nazmul Hasan',
+    author: 'Foysal Ahammed',
     department: 'CSE Dept.',
   },
   {

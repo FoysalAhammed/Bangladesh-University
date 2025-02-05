@@ -13,7 +13,7 @@ import user7 from '../../assets/user/user7.jpg';
 
 export default function Alumni() {
     const users = [
-        { name: "Nazmul Hasan", job: "Web Developer", company: "ABC Ltd.", img: user1 },
+        { name: "Foysal Ahammed", job: "Web Developer", company: "ABC Ltd.", img: user1 },
         { name: "Aisha Khan", job: "Graphic Designer", company: "XYZ Inc.", img: user3 },
         { name: "Michael Brown", job: "Project Manager", company: "Tech Solutions", img: user4 },
         { name: "Sophia Lee", job: "Software Engineer", company: "Innovatech", img: user5 },

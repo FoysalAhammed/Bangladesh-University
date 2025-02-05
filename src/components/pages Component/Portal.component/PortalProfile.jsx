@@ -9,7 +9,7 @@ export default function PortalProfile() {
         </div>
         <div className='3/4 text-sky-900 py-2'>
             <h1 className='text-xl font-bold py-2 text-center'>Personal Details</h1>
-            <p><span className='font-semibold'>Full name </span> : <span>Nazmul Hasan</span></p>
+            <p><span className='font-semibold'>Full name </span> : <span>Foysal Ahammed</span></p>
             <p><span className='font-semibold'>Father's name</span> : <span>ABC Islam</span></p>
             <p><span className='font-semibold'>Mother's name</span> : <span>abc Akter</span></p>
             <p><span className='font-semibold'>Date of Birth </span>: <span>19-05-1985</span></p>
